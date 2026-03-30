@@ -92,7 +92,11 @@ This app uses **Lottie animations** instead of traditional loaders like `Circula
 
 # 🎥 Demo Video
 
-C:\Users\HP\OneDrive\Desktop\todo-Flutter-App\assets\screenshots\app_video.mp4
+
+https://github.com/user-attachments/assets/88599af4-9575-43fc-86ed-bda3056b5dbe
+
+
+
 
 ## 📦 Installation
 
