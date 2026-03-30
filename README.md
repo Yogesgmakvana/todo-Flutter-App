@@ -78,14 +78,16 @@ This app uses **Lottie animations** instead of traditional loaders like `Circula
   <img src="assets/screenshots/1.png" width="220"/>
   <img src="assets/screenshots/2.png" width="220"/>
   <img src="assets/screenshots/3.png" width="220"/>
-  <img src="assets/screenshots/4.png" width="220"/>
 </p>
 <p align="center">
+<img src="assets/screenshots/4.png" width="220"/>
   <img src="assets/screenshots/5.png" width="220"/>
   <img src="assets/screenshots/6.png" width="220"/>
-  <img src="assets/screenshots/7.png" width="220"/>
+ 
 </p>
-
+<p align="center">
+ <img src="assets/screenshots/7.png" width="220"/>
+ </p>
 ---
 
 # 🎥 Demo Video
